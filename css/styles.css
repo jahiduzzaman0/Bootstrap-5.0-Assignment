@@ -1,0 +1,13 @@
+.n-bg-info{
+    background-color: #FDF3F3 ;
+}
+.categories img{
+    width: 100px;
+}
+.n-btn-buy-now{
+    background-image: linear-gradient(to bottom, #FDF3F3 0%, #F7CAC9 100%);
+    color: #000000;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
